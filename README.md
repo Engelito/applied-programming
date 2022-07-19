@@ -17,7 +17,7 @@ Git/Github
 * [Git](https://git-scm.com/downloads)
 * [Youtube](https://www.youtube.com/watch?v=eUX0MtmjVTc&ab_channel=Engelito)
 * [w3Schools](https://www.w3schools.com/java/java_classes.asp)
-# Future gaols
+# Future goals
 *I would like to be able to make food with the same date save in the same section
 
 *Make the program work on the phone and sync it so that whether it's on your computer or phone you can keep
